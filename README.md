@@ -2,6 +2,7 @@
 Welcome to the Data Analyst Project repository! This project is a comprehensive demonstration of my data analysis skills, utilizing a robust dataset to extract meaningful insights and provide data-driven recommendations. Through this project, I aim to showcase proficiency in  data visualization and statistical analysis
 
 # 1) Northwind Traders - Power BI 
+---
 ## Overview:
 #### This project involves creating a comprehensive Power BI dashboard to analyze the sales data for Northwind Traders, a fictitious specialty foods export and import company. The primary goal is to provide valuable insights into the company's sales performance, helping stakeholders make data-driven decisions.
 
