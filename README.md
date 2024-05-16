@@ -1,28 +1,31 @@
 # Data_Analyst_Project
 Welcome to the Data Analyst Project repository! This project is a comprehensive demonstration of my data analysis skills, utilizing a robust dataset to extract meaningful insights and provide data-driven recommendations. Through this project, I aim to showcase proficiency in  data visualization and statistical analysis
+
 # 1) Northwind Traders - Power BI 
 ## Overview:
 #### This project involves creating a comprehensive Power BI dashboard to analyze the sales data for Northwind Traders, a fictitious specialty foods export and import company. The primary goal is to provide valuable insights into the company's sales performance, helping stakeholders make data-driven decisions.
 
+## Table of content 
+#### [Objective](https://github.com/Mohini-Kale/Data_Analyst_Project/edit/main/README.md#project-objectives)
+#### [Tools](https://github.com/Mohini-Kale/Data_Analyst_Project/edit/main/README.md#tools-and-technologies)
+#### [Structure](https://github.com/Mohini-Kale/Data_Analyst_Project/edit/main/README.md#tools-and-technologies)
+#### [Dashboard](https://github.com/Mohini-Kale/Data_Analyst_Project/edit/main/README.md#tools-and-technologies)
+
 ## Project Objectives
-#### Data Cleaning and Preprocessing:- 
-Standardize data formats and perform necessary transformations and ensure the dataset is ready for analysis.
+#### Data Cleaning and Preprocessing:- Standardize data formats and perform necessary transformations and ensure the dataset is ready for analysis.
 
-#### Exploratory Data Analysis (EDA):- 
-Generate summary statistics and initial visualizations.Identify key variables and their distributions.
+#### Exploratory Data Analysis (EDA):- Generate summary statistics and initial visualizations.Identify key variables and their distributions.
 
-#### Data Visualization:- 
-Develop dashboards for interactive data exploration.
+#### Data Visualization:- Develop dashboards for interactive data exploration.
 
-#### Statistical Analysis:- 
-Apply statistical methods to interpret data and draw conclusions.
+#### Statistical Analysis:- Apply statistical methods to interpret data and draw conclusions.
 
 
 ## Dataset
 The dataset used for this project is sourced from "NorthwindTradersTables.csv"
 
 ## Tools and Technologies
-#### Power BI: For data visualization and dashboard creation.
+#### Power BI: For data visualization and dashboard creation. [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 #### Data Source: Northwind Traders sales data (typically available in Excel or SQL format).
 #### Data Processing: Data cleaning and transformation performed within Power BI.
 
